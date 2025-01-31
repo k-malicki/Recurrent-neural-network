@@ -1,4 +1,4 @@
-# Prosta sieć rekurencyjne (RNN)
+# Prosta sieć rekurencyjna (RNN)
 Projekt przedstawia implementację sieci rekurencyjnej, która znajduje zastosowanie do tłumaczenia maszynowego do klasyfikacji binarnej
 
  - Propagacja w przód: Obliczanie wyników wyjściowych na podstawie danych wejściowych i aktualnych wag i wyrazów wolnych
