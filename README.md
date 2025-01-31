@@ -1,5 +1,5 @@
 # Prosta sieć rekurencyjna (RNN)
-Projekt przedstawia implementację sieci rekurencyjnej, która znajduje zastosowanie do tłumaczenia maszynowego do klasyfikacji binarnej
+Sieć RNN zaprojektowana jest do przetwarzania danych sekwencyjnych i może być stosowana do problemów takich jak analiza tekstów, dźwięków czy szeregów czasowych. W notatniku zaimplementowano prostą sieć przeznaczoną do tłumaczenia maszynowego, umożliwiając przekład tekstów z jednego języka na drugi.
 
  - Propagacja w przód: Obliczanie wyników wyjściowych na podstawie danych wejściowych i aktualnych wag i wyrazów wolnych
  - Propagacja wsteczna: Aktualizacja wag na podstawie gradientów błędu, aby poprawić dokładność modelu.
